@@ -1,6 +1,6 @@
 # Hi, Shreya Kiran here👋
 
-<p align="justify">I'm an ML enthusiast pursuing my Bachelor's in Computer Science at PES University, Bangalore.
+<p align="justify">I'm a student, pursuing my Bachelor's in Computer Science at PES University, Bangalore.
 I'm always looking to learn something new and improve my skills. </p>
 
 ### Languages
